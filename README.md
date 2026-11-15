@@ -1,4 +1,4 @@
-<h1  align="center">Manuela de Macedo</h1>
+<h1  align="center">Manuela</h1>
 <p align="center">Software Engineer Student | Cybersecurity | Security Engineering</p>
 
 <h3 align="center">Languages and Tools:</h3>
